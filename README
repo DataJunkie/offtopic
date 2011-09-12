@@ -1,0 +1,8 @@
+This repository contains some of the code used for my OFFTOPIC.com
+crawling project.
+
+To use:
+Modify config.py with your login credentials.
+
+TO DO:
+Add more to this README.
